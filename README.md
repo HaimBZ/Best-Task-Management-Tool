@@ -1,2 +1,7 @@
 # Best-Task-Management-Tool
-Task management query items
+
+- this app was created with create-react-app
+
+to run app:
+- npm install
+- npm start
